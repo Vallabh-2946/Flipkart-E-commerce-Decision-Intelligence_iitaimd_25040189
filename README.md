@@ -1,7 +1,5 @@
 Domain: E-commerce
 
-# Flipkart E-commerce Decision Intelligence
-
 This capstone uses a reproducible synthetic dataset to estimate order value, model the churn outcome, profile customer segments, and compare simple structured-data models. The records do not come from Flipkart and the results do not describe its actual customers or operations.
 
 ## How to run
